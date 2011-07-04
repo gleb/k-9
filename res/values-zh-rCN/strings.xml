@@ -793,7 +793,7 @@
     <string name="message_list_help_key">Del (or D) - 删除\u000AR -
     回复\u000AA - 全部回复\u000AC - 新邮件\u000AF - 转发\u000aM -
     移动\u000AY - 拷贝\u000AG - 星标\u000AO - 排序方式\u000AI - 升序/降序\u000AQ
-    - 返回文件夹\u000AS - 选择/取消选择</string>
+    - 返回文件夹\u000AX - 选择/取消选择</string>
 
     <string name="folder_list_help_key">
     1 - 只显示初级文件夹\u000A

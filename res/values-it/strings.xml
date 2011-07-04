@@ -811,7 +811,7 @@ Benvenuto nella configurazione della posta di K-9. K-9 è un client di posta ope
     <string name="message_list_help_key">Canc (o D) - Elimina\u000AR -
     Rispondi\u000AA - Rispondi a tutti\u000AC - Componi\u000AF - Inoltra\u000aM -
     Sposta\u000AY - Copia\u000AG - Stella\u000AO - Tipo ordinamento\u000AI - Verso ordinamento\u000AQ
-    - Ritorna alle cartelle\u000AS - Seleziona/deseleziona</string>
+    - Ritorna alle cartelle\u000AX - Seleziona/deseleziona</string>
 
     <string name="folder_list_help_key">
     1 - Visualizza soltanto cartelle di 1a Classe\u000A

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">K-9 Mail</string>
     <string name="beta_app_name">K-9 Mail BETA</string>
@@ -807,7 +807,7 @@ Bienvenido a la Configuración de K-9. K-9 es un cliente de correo OpenSource pa
     <string name="message_list_help_key">Del (or D) - Borrar\u000AR -
     Responder\u000AA - Responder todos\u000AC - Redactar\u000AF - Desvío\u000aM -
     Mover\u000AY - Copiar\u000AG - Estrella\u000AO - Tipo ordenación\u000AI - Ordenar\u000AQ
-    - Volver a carpetas\u000AS - Des/Marcar</string>
+    - Volver a carpetas\u000AX - Des/Marcar</string>
 
     <string name="folder_list_help_key">
     1 - Ver carpetas 1a Clase\u000A

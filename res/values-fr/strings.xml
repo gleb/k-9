@@ -706,7 +706,7 @@
   <string name="message_list_help_key">Suppr (ou D) - Supprimer\u000AR -
     Répondre\u000AA - Répondre à tous\u000AC - Composer\u000AF - Transférer\u000aM -
     Déplacer\u000AY - Copier\u000AG - Étoile\u000AO - Trier\u000AI - Ordre de tri\u000AQ
-    - Retourner aux dossiers\u000AS - Sélectionner/Désélectionner</string>
+    - Retourner aux dossiers\u000AX - Sélectionner/Désélectionner</string>
   <string name="folder_list_help_key">
       1 - Afficher seulement les dossiers de 1ère classe \u000A
       2 - Afficher les dossiers de 1ère et 2ème classes\u000A

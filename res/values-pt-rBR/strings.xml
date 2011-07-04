@@ -806,7 +806,7 @@ Bem-vindo à configuração do K-9 Mail. K-9 é um cliente de e-mail com código
     <string name="message_list_help_key">Del (or D) - Excluir\u000AR -
     Responder\u000AA - Responder a todos\u000AC - Escrever\u000AF - Encaminhar\u000aM -
     Mover\u000AY - Copiar\u000AG - Favoritar\u000AO - Tipo de ordenação\u000AI - Ordernar\u000AQ
-    - Retornar à pastas\u000AS - Selecionar/desselecionar</string>
+    - Retornar à pastas\u000AX - Selecionar/desselecionar</string>
 
     <string name="folder_list_help_key">
     1 - Mostrar apenas pastar de Primeira Classe\u000A

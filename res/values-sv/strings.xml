@@ -810,7 +810,7 @@ Välkommen till installationen av K-9 E-post. K-9 är en e-postklient med öppen
     <string name="message_list_help_key">Del (eller D) - Radera\u000AR -
     Svara\u000AA - Svara alla\u000AC - Skriv\u000AF - Vidarebefordra\u000aM -
     Flytta\u000AY - Kopiera\u000AG - Stjärna\u000AO - Sorteringstyp\u000AI - Sorteringsordning\u000AQ
-    - Återvänd till mappar\u000AS - Markera/avmarkera</string>
+    - Återvänd till mappar\u000AX - Markera/avmarkera</string>
 
     <string name="folder_list_help_key">
     1 - Visa endast första klassens mappar\u000A

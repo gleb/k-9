@@ -807,7 +807,7 @@ Benvido á Configuración de K-9. K-9 é un cliente de correo OpenSource para An
     <string name="message_list_help_key">Del (ou D) - Borrar\u000AR -
     Responder\u000AA - Responder todos\u000AC - Redactar\u000AF - Desvío\u000aM -
     Mover\u000AY - Copiar\u000AG - Estrela\u000AO - Tipo ordeación\u000AI - Ordear\u000AQ
-    - Voltar a carpetas\u000AS - Des/Marcar</string>
+    - Voltar a carpetas\u000AX - Des/Marcar</string>
 
       <string name="folder_list_help_key">
       1 - Ver carpetas 1a Clase\u000A

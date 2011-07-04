@@ -804,7 +804,7 @@ Tervetuloa K-9 Mail asennukseen.  K-9 on avoimen lähdekoodin sähköpostiasiak
     <string name="message_list_help_key">Del (tai D) - Poista\u000AR -
       Vastaa\u000AA - Vastaa kaikille\u000AC - Kirjoita\u000AF - Välitä\u000aM -
       Siirrä\u000AY - Kopioi\u000AG - Tähti\u000AO - Lajittelutyyppi\u000AI - Lajittelujärjestys\u000AQ
-      - Palaa kansioihin\u000AS - Valitse/poista valinta</string>
+      - Palaa kansioihin\u000AX - Valitse/poista valinta</string>
 
     <string name="folder_list_help_key">
         1 - Näytä vain 1. luokan kansiot\u000A

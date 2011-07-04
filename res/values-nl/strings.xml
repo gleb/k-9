@@ -807,7 +807,7 @@ Welkom bij K-9 Mail setup.  K-9 is een open source mail cliënt voor Android, ge
     <string name="message_list_help_key">Del (or D) - Verwijder\u000AR -
     Antwoord\u000AA - Antwoord Alle\u000AC - Ontwerp\u000AF - Doorsturen\u000aM -
     Verplaats\u000AY - Kopieer\u000AG - Ster\u000AO - Sort type\u000AI - Sort grootte\u000AQ
-    - Terug naar Mappen\u000AS - Selecteer/de-selecteer</string>
+    - Terug naar Mappen\u000AX - Selecteer/de-selecteer</string>
 
       <string name="folder_list_help_key">
       1 - Laat alleen 1 klasse mappen zien\u000A

@@ -919,7 +919,7 @@ public class MessageList
                         onDelete(message, position);
                         return true;
                     }
-                    case KeyEvent.KEYCODE_S: {
+                    case KeyEvent.KEYCODE_X: {
                         setSelected(message, !message.selected);
                         return true;
                     }

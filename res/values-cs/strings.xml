@@ -817,7 +817,7 @@ Vítejte v nastavení pošty K-9 Mail.  K-9 je open source poštovní klient pro
     <string name="message_list_help_key">Del (nebo D) - Smazat\u000AR -
     Odpovědět\u000AA - Odpovědět všem\u000AC - Nová\u000AF - Přeposlat\u000aM -
     Přesun\u000AY - Kopie\u000AG - Hvězdička\u000AO - Typ třídění\u000AI - Pořadí třídění\u000AQ
-    - Návrat do složek\u000AS - Vybrat/zrušit výběr</string>
+    - Návrat do složek\u000AX - Vybrat/zrušit výběr</string>
 
     <string name="folder_list_help_key">
       1 - Zobrazit jen složky 1. třídy\u000A

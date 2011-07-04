@@ -821,7 +821,7 @@ Witaj w K-9 Mail, darmowym programie pocztowym dla systemu Android. Najistotniej
     <string name="message_list_help_key">Del lub D - Usuń\u000AR -
     Odpowiedz\u000AA - Odp. wszystkim\u000AC - Napisz\u000AF - Prześlij dalej\u000aM -
     Przenieś\u000AY - Skopiuj\u000AG - Gwiazdka\u000AO - Typ sortowania\u000AI - Porządek sortowania\u000AQ
-    - Widok folderów\u000AS - Zaznacz/odznacz</string>
+    - Widok folderów\u000AX - Zaznacz/odznacz</string>
 
       <string name="folder_list_help_key">
       1 - Wyśw. tylko foldery 1szej klasy\u000A

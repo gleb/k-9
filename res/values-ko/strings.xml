@@ -807,7 +807,7 @@ K-9 메일 설치를 환영합니다.  K-9은 안드로이드용 오픈소스 �
     <string name="message_list_help_key">Del (or D) - 삭제\u000AR -
     회신\u000AA - 전체 회신\u000AC - 작성\u000AF - 전달\u000aM -
     이동\u000AY - 복사\u000AG - Star\u000AO - Sort type\u000AI - 정렬 순서\u000AQ
-    - 폴더로 돌아가기\u000AS - 선택/선택해제</string>
+    - 폴더로 돌아가기\u000AX - 선택/선택해제</string>
 
     <string name="folder_list_help_key">
     1 - 첫 번째 클래스 폴더만 보기\u000A

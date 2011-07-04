@@ -810,7 +810,7 @@ Benvingut a la configuració del K-9.  El K-9 és un client de codi obert per An
     <string name="message_list_help_key">Del (or D) - Esborra\u000AR -
     Respon\u000AA – Respon a tothom\u000AC - Redacta\u000AF - Reenvia\u000aM -
     Mou\u000AY - Copia\u000AG - Estel\u000AO – Tipus d’ordenació\u000AI – Tipus d’ordre\u000AQ
-    - Retorna a les carpetes\u000AS - Selecciona/desselecciona</string>
+    - Retorna a les carpetes\u000AX - Selecciona/desselecciona</string>
 
     <string name="folder_list_help_key">
     1 – Mostra només les carpetes de 1a Classe\u000A
